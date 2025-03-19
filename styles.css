@@ -221,6 +221,8 @@ img {
     right: 20px;
     bottom: 150px;
     width: 300px;
+     border-radius: 50%;  /* This makes the image circular */
+      object-fit: cover; 
 
 }
 
